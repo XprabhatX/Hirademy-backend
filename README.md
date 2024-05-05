@@ -29,7 +29,10 @@ You should be getting this 3 confirmations:<br>
 2. Click on import button<br>
    ![image](https://github.com/XprabhatX/Hirademy-backend/assets/83898334/dcb4bccf-039e-4f2a-9b7e-73c4aa8def7a)
 
-3. Drag and drop the Hirademy-Backend.postman_collection.json file provided in this repository
+3. Drag and drop the Hirademy-Backend.postman_collection.json file provided in this repository<br>
+![image](https://github.com/XprabhatX/Hirademy-backend/assets/83898334/557a764d-3560-4284-9f23-87efe862fb29)
+![image](https://github.com/XprabhatX/Hirademy-backend/assets/83898334/b06e3eb5-5503-42a0-83a3-1caa458b1122)
+
 4. You can see I have created a Postman Collection called Hirademy-Backend
    And it contains 4 different requests (CRUD in order)<br>
    ![image](https://github.com/XprabhatX/Hirademy-backend/assets/83898334/2aab4893-31a1-4fe5-b171-fd8877aedf8f)
