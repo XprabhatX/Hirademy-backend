@@ -6,7 +6,7 @@ import { CreateAssistantInput } from "../schema/assistant.schema.js"
 export async function createAssistantHandler(req: Request<{}, {}, CreateAssistantInput['body']>, res: Response) {
     try {
         const user = await createAssistant(req.body)
-        res.send(user)
+        res.send(user.id)
     } catch (e: any) {
         return res.status(409).send(e.message)
     }
