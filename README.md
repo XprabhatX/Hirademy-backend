@@ -26,11 +26,11 @@ You should be getting this 3 confirmations:
 
 ## Postman Tests
 1. Open Postman
-2. Click on import button
    ![image](https://github.com/XprabhatX/Hirademy-backend/assets/83898334/dcb4bccf-039e-4f2a-9b7e-73c4aa8def7a)
+2. Click on import button
 
-4. Drag and drop the Hirademy-Backend.postman_collection.json file provided in this repository
-5. You can see I have created a Postman Collection called Hirademy-Backend
+3. Drag and drop the Hirademy-Backend.postman_collection.json file provided in this repository
+4. You can see I have created a Postman Collection called Hirademy-Backend
    And it contains 4 different requests (CRUD in order)
    ![image](https://github.com/XprabhatX/Hirademy-backend/assets/83898334/2aab4893-31a1-4fe5-b171-fd8877aedf8f)
-6. Go through each request one by one and run them to test the api (make sure the server is running)
+5. Go through each request one by one and run them to test the api (make sure the server is running)
