@@ -1,0 +1,57 @@
+[
+    {
+        "id": "001",
+        "name": "John Doe",
+        "mobile": "1234567890",
+        "email": "john.doe@example.com",
+        "salary": 50000,
+        "city": "New York",
+        "country": "USA",
+        "department": "Engineering",
+        "role": "Software Engineer"
+    },
+    {
+        "id": "002",
+        "name": "Jane Smith",
+        "mobile": "0987654321",
+        "email": "jane.smith@example.com",
+        "salary": 60000,
+        "city": "Los Angeles",
+        "country": "USA",
+        "department": "Marketing",
+        "role": "Marketing Manager"
+    },
+    {
+        "id": "003",
+        "name": "Alice Johnson",
+        "mobile": "1112223333",
+        "email": "alice.johnson@example.com",
+        "salary": 75000,
+        "city": "Chicago",
+        "country": "USA",
+        "department": "Finance",
+        "role": "Financial Analyst"
+    },
+    {
+        "id": "004",
+        "name": "Michael Brown",
+        "mobile": "4445556666",
+        "email": "michael.brown@example.com",
+        "salary": 55000,
+        "city": "San Francisco",
+        "country": "USA",
+        "department": "Human Resources",
+        "role": "HR Specialist"
+    },
+    {
+        "id": "005",
+        "name": "Emily Wilson",
+        "mobile": "7778889999",
+        "email": "emily.wilson@example.com",
+        "salary": 70000,
+        "city": "Seattle",
+        "country": "USA",
+        "department": "Sales",
+        "role": "Sales Manager"
+    }
+]
